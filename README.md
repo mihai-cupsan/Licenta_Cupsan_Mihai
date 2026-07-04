@@ -24,8 +24,6 @@ text
     - registrele dintre etapele pipeline
     - unitatea de hazard
 
-/sim
-    Conține fișierele de testbench utilizate pentru simularea funcțională
 
 /constraints
     Conține fișierul de constrângeri fizice și temporale pentru FPGA
